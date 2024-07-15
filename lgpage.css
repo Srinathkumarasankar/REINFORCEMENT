@@ -1,0 +1,698 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.div0{
+    background-color:rgb(186, 186, 234); ;
+}
+.div1{
+    background-color: rgb(37, 37, 131);
+    display: flex;
+    color: rgb(239, 91, 133);
+    padding-left: 30px;
+    min-width: 100vw;
+    min-height: 5vh;
+    padding-top: 25px;
+}
+.div1para0{
+    min-width: 100px;
+    max-height: 40px;
+}
+.div1para1{
+    margin-left: 350px;
+    min-width: 250px;
+   
+}
+.div1para2{
+    margin-left: 370px;
+    min-width: 100px;
+    max-height: 0%;
+}
+#pgname{
+    color: rgb(37, 37, 131);
+    font-size: 30px;
+    text-decoration: none;
+    font-style: italic;
+    font-weight: bolder;
+    margin-left: 10px;
+}
+#navbarNav{
+    margin-left: 120px;
+}
+ul li{
+    margin-left: 30px;
+}
+#cart{
+    margin-left: 120px;
+}
+.div3{
+    margin-left: 30px;
+}
+.coverpic{
+    height: 500px;
+    width: 1200px;
+}
+.div4{
+    position: relative;
+}
+.div4sub1{
+    position: absolute;
+    left: 380px;
+    bottom: 60px;
+    
+}
+.div4para1{
+    background-color: rgb(241, 235, 247);
+    width: 200px;
+    border-radius: 20px;
+    color:rgb(37, 37, 131);
+    font-size: larger;
+    font-weight: bold ;
+    margin-left: 150px;
+    text-align: center;
+}
+.div4para2{
+    color: rgb(37, 37, 131);
+    font-size: 50px;
+    font-weight: 900;
+}
+.div4para3{
+    color: rgb(37, 37, 131);
+    font-size: 20px;
+    margin-left: 70px;
+}
+.div4button{
+    background-color: rgb(233, 86, 86);
+    color: aliceblue;
+    height: 40px;
+    width: 100px;
+    border: none;
+    border-radius: 5px;
+    margin-left: 170px;
+}
+.div5{
+display: flex;
+gap: 50px;
+margin-left: 50px;
+margin-top: 30px;
+line-height: 28px;
+/* background-color: aqua; */
+}
+.div5sub2 img{
+    width: 500px;
+    border-radius:20px ;
+}
+i{
+    color:rgb(37, 37, 131); 
+}
+.div5para{
+    color:rgb(37, 37, 131);
+
+}
+.div6{
+    width: 100%;
+    /* background-color: aqua; */
+    /* padding: auto; */
+    color:rgb(37, 37, 131);
+    padding-top: 20px;
+}
+.div6para1{
+    font-size: 30px;
+    font-weight: bold;
+    color:rgb(37, 37, 131);
+    width:600px;
+    margin-left: 350px;
+}
+.div6sub1{
+    display: flex;
+    margin-left: 130px;
+    gap: 100px;
+}
+.div6 img{
+    width: 100px;
+}
+/* .div6img1{
+    margin-left: 80px;
+}
+.div6img2{
+    margin-left: 100px;
+}
+.div6img3{
+    margin-left: 120px;
+} */
+.div6sub1sub1{
+text-align: center;
+font-weight: 600;
+}
+.div6sub1sub2{
+    text-align: center;
+    font-weight: 600;
+}
+.div6sub1sub3{
+    text-align: center;
+    font-weight: 600;
+}
+
+.div7{
+    margin-top: 50px;
+    width: 100%;
+    background-color: aliceblue;
+}
+
+.div7sub1{
+    text-align: center;
+    color:rgb(37, 37, 131);
+}
+.div7sub2{
+    display: flex;
+    gap: 30px;
+    padding-left: 40px;
+    margin-top: 30px;
+    /* background-color: aquamarine; */
+}
+
+.div7sub2para1{
+    font-size: smaller;
+    background-color: rgb(173, 206, 236);
+    border-radius: 20px;
+    /* max-width: 100px */
+    text-align: center;
+}
+.div7sub2para2{
+    font-size: 30px;
+    font-weight: bolder;
+    color:rgb(37, 37, 131);
+    text-align: center;
+}
+.div7sub2sub2{
+    margin-left: 20px;
+    padding-left: 25px;
+}
+.crd1,.crd2,.crd3{
+    border: none;
+}
+.crd1 img:hover{
+    width: 23rem;
+}
+.crd2 img:hover{
+    width: 23rem;
+}
+
+.crd3 img:hover{
+    width: 23rem;
+}
+
+.div7btn1{
+    background-color: rgb(37, 37, 131);
+    color: aliceblue;
+    margin-top: 120px;
+    margin-left: 30%;
+    padding: 10px;
+    border-radius: 10px;
+    width: 160px;
+}
+.div7btn2{
+    background-color: rgb(37, 37, 131);
+    color: aliceblue;
+    margin-top: 70px;
+    margin-left: 100px;
+    padding: 10px;
+    border-radius: 10px;
+    width: 160px;
+}
+.div7btn3{
+    background-color: rgb(37, 37, 131);
+    color: aliceblue;
+    margin-top: 24px;
+    margin-left: 30%;
+    padding: 10px;
+    border-radius: 10px;
+    width: 160px;
+}
+.div7btnpara{
+    
+    margin-left: 100px;
+    width: 160px;
+    text-align: center;
+}
+.div8{
+    margin-top: 40px;
+    margin-left: 5px;
+    text-align: center;
+}
+.div8 button{
+    border: 2px solid rgb(37, 37, 131);
+    color: rgb(37, 37, 131);
+    background-color: aliceblue;
+    border-radius: 25px;
+    padding: 10px;
+    font-weight: 700;
+}
+.div9{
+    margin-top: 50px;
+    justify-content: center;
+    justify-items: center;
+    width: 100%
+}
+.div9 h1{
+    text-align: center;
+    color: rgb(37, 37, 131);
+}
+
+.div9sub1{
+    display: flex;
+    gap: 5px;
+    color: rgb(37, 37, 131);
+   
+    
+}
+.div9sub2{
+    display: flex;
+    gap: 5px;
+    width: 250px;
+    color: rgb(37, 37, 131);
+}
+.div9sub3{
+    display: flex;
+    gap: 5px;
+    color: rgb(37, 37, 131);
+}
+.div9div{
+    display: flex;
+    gap: 15px;
+    padding-left: 14%;
+    margin-top: 20px;
+}
+
+.vertical{
+border-left: 1px solid rgb(37, 37, 131);
+}
+
+.div9sub4{
+    display: flex;
+    gap: 5px;
+    color: rgb(37, 37, 131);
+}
+
+.div9sub5{
+    display: flex;
+    gap: 5px;
+    color: rgb(37, 37, 131);
+}
+.div9div2{
+    display: flex;
+    gap: 18px;
+    margin-top: 30px;
+    padding-left: 20%;
+}
+.vertical2{
+    border-left: 1px solid rgb(37, 37, 131);
+}
+.div9para2{
+    font-weight: bold;
+}
+.vertsub3{
+    border-color: rgb(186, 186, 234); ;
+}
+.summapara{
+    font-size: smaller;
+    text-align: center;
+    margin-top: 10px;
+}
+.div10{
+     background-color: rgb(0 34 105);
+     color: aliceblue;
+     text-align: center;
+}
+.div10div{
+    display: flex;
+    gap: 30px;
+    padding-left: 50px;
+    height: 550px;
+    margin-top: 50px;
+}
+.div10img1{
+    /* border: 2px solid white; */
+    background-color: aliceblue;
+    transition: transform .2s;
+    border-radius: 20px;
+    width: 200px;
+    height: 200px;
+    margin-top: 30%;
+}
+.div10img2{
+    background-color: aliceblue;
+    border-radius: 50%;
+    transition: transform .2s;
+    width: 200px;
+    height: 200px;
+    margin-top: 30%;
+}
+.div10img3{
+   
+    border-radius: 90%;
+    transition: transform .2s;
+    width: 200px;
+    height: 200px;
+    
+    margin-top: 2%;
+}
+
+.div10img4{
+    border-radius: 20px;
+    transition: transform .2s;
+    width: 200px;
+    height: 200px;
+    /* background-color: aliceblue; */
+    margin-top: 2%;
+}
+.div10sub1{
+    border: 2px solid white;
+    height: 450px;
+    width: 400px;
+    border-radius: 20px;
+    background-image: linear-gradient(to bottom,rgb(49, 74, 216),rgb(0 34 105),rgb(1, 21, 66));
+}
+.div10sub2{
+    border: 2px solid white;
+    width: 300px;
+    height: 450px;
+    border-radius: 20px;
+    background-image: linear-gradient(to bottom,rgb(30, 89, 216),rgb(0 34 105),rgb(1, 21, 66));
+}
+.div10sub3{
+    border: 2px solid white;
+    width: 400px;
+    height: 250px;
+    border-radius: 20px;
+    background-image: linear-gradient(to right, rgb(30, 89, 216), rgb(0 34 105) ,rgb(1, 21, 66));
+}
+.div10sub4{
+    border: 2px solid white;
+    width: 400px;
+    height: 250px;
+    border-radius: 20px;
+    background-image: linear-gradient(to right, rgb(30, 89, 216),rgb(0 34 105) ,rgb(1, 21, 66));
+}
+.div10img1:hover{
+    transform: scale(1.25);
+    z-index: -1;
+}
+.div10img2:hover{
+    transform: scale(1.25);
+}
+.div10img3:hover{
+    transform: scale(1.25);
+}
+.div10img4:hover{
+    transform: scale(1.25);
+}
+.div10sub1 h3{
+    margin-top: 15%;
+}
+.div10sub2 h3{
+    margin-top: 30%;
+}
+.div11{
+    color: rgb(37, 37, 131);
+    
+}
+.div11div1{
+    display: flex;
+    gap: 20%;
+}
+.div11sub1{
+    width: 500px;
+    font-size: 30px;
+}
+
+.div11img1{
+    width: 30%;
+}
+.div11 img{
+    border-radius: 20px;
+}
+.div11 h3{
+    text-align: center;
+    margin-top: 20px;
+}
+.carousediv{
+    margin-left: 50px
+}
+.div12{
+    text-align: center;
+    margin-top: 40px;
+    background-color: aliceblue;
+    height: 400px;
+}
+.div12 h2{
+    color: rgb(37, 37, 131);
+    font-weight: bold;
+    
+}
+.div12div1{
+    display: flex;
+    /* gap: 10px; */
+    
+}
+.div12div1 p{
+    color: rgb(83, 81, 81);
+    font-size: medium;
+}
+.div12btn{
+    padding: 10px;
+    background-color:rgb(37, 37, 131);
+    color: aliceblue;
+    border: none;
+    border-radius: 25px;
+    margin-top: 40px;
+    width: 300px;
+}
+.div13{
+    background-color:rgb(37, 37, 131); 
+    color: aliceblue;
+    text-align: center;
+    height: 450px;
+    
+}
+.div13div1{
+    margin-top: 60px;
+    word-spacing: 10px;
+}
+.div13div1 button{
+    padding: 8px;
+    border: none;
+    border-radius: 10px;
+    font-size: small;
+    color: rgb(37, 37, 131);
+    font-weight: bold;
+}
+.div13div1 a{
+    text-decoration: none;
+    color: aliceblue;
+    font-size: smaller;
+    
+}
+.div13div1 a:hover{
+    color: black;
+}
+.div14{
+    position: relative;
+    /* margin-left: 130px; */
+    /* margin-top: 50px; */
+   background-color: aliceblue;
+}
+.div14div1{
+    position: absolute;
+    bottom: 80px;
+    left: 15%;
+}
+.div14 img{
+    width: 1000px;
+    height: 500px;
+    box-shadow: 10px 10px 10px ;
+    margin-bottom: 40px;
+    background-color: aliceblue;
+    margin-left: 130px;
+    margin-top: 20px;
+}
+.div14div1 h4{
+    color: aliceblue;
+}
+.div14div1 button{
+    padding: 10px;
+    width: 150px;
+    font-weight: 500;
+    border: none;
+    border-radius: 5px;
+    margin-top: 20px;
+}
+.div15{
+    display: flex;
+    gap: 40px;
+    /* background-color: #1e306e; */
+    color: aliceblue;
+    padding-left: 80px;
+    padding-top: 40px;
+}
+.div15 a{
+    text-decoration: none;
+    color: aliceblue;
+    
+}
+.div15icons{
+    margin-top: 10px;
+    margin-left: 10px;
+    word-spacing: 10px;
+}
+.icon1{
+    border: 1px solid rgb(94, 88, 88);
+     padding: 10px;
+     border-radius: 50%;
+     color: aliceblue;
+}
+.icon1:hover{
+    border: 2px solid aliceblue;
+}
+.div15sub5 h6{
+    color: aliceblue;
+    text-align: center;
+    margin-top: 10px;
+}
+.div15 a:hover{
+    color: rgb(136, 152, 165);
+}
+.div15sub1 a{
+    line-height: 40px;
+    font-size: small;
+}
+.div15sub2 a{
+    line-height: 40px;
+    font-size: small;
+}
+.div15sub3 a{
+    line-height: 40px;
+    font-size: small;
+}
+.div15sub4 a{
+    line-height: 40px;
+    font-size: small;
+}
+.div16{
+    /* background-color: #1e306e ; */
+    padding-top: 60px;
+    color: aliceblue;
+    padding-left: 80px;
+}
+.div16 a{
+    line-height: 40px ;
+    display: inline;
+    text-decoration: none;
+    color: aliceblue;
+    font-size: small;
+}
+.div16 a:hover{
+    color: rgb(136, 152, 165);
+}
+.div17{
+    background-color: #233892;
+    text-align: center;
+    word-spacing: 10px;
+    padding: 10px;
+}
+.div17 a{
+    color: aliceblue;
+    text-decoration: none;
+    font-size: medium;
+}
+footer{
+    background-color:  #2c449d;
+}
+@media only screen and (max-width: 800px){
+    .div1para2{
+        display: none; 
+    }
+    .div1para0{
+        display: none;
+    }
+    .div1para1{
+        margin-left: 25%;
+    }
+    .div5{
+        padding-left: 10%;
+       flex-direction: column-reverse;
+       width: 100%;
+    }
+    .div5sub1{
+        min-width: 500px;
+    }
+    .div6{
+        width:60%;
+    }
+    .div6para1{
+        min-width: 70%;
+        margin-left: 30%;
+    }
+    .div7{
+        width: 70%;
+        margin-left: 20%;
+    }
+    .div7sub2{
+        flex-direction: column; 
+    }
+    .div7sub2sub2{
+        margin-left: 0%;
+    }
+    .div7btn1,.div7btn2,.div7btn3{
+        margin-left: 35%;
+        margin-top: 20px;
+    }
+    .div8{
+        margin-left: 25%
+    }
+    .div9div{
+        display: inline-block;
+    }
+    .div9div2{
+        display: inline-block;
+    }
+    .vertical{
+       display: none;
+    }
+    .vertical2{
+        display: none;
+    }
+    .div9{
+        width: 100%;
+        text-align: center;
+        line-height: 20px;
+        padding: 5%;
+        /* margin: 10%; */
+    }
+    .div9div{
+        display: inline;
+    }
+    .div9sub1{
+        display: inline;
+       justify-self: center;
+       justify-items: center;
+    }
+    .div9sub2{
+        display: inline;
+    }
+    .div9sub3{
+        display: inline;
+    }
+    .div9div2{
+        display: inline;
+        text-align: center;
+    }
+    .div9sub4{
+        display: inline;
+        
+    }
+ 
+    .div9sub5{
+        display: inline;
+    }
+}
